@@ -1,4 +1,4 @@
-# wavebreak
+# wavebreak Coding test
 
 # Problem 1
 ## Face Detection using OpenCV and Python
@@ -42,4 +42,3 @@ A separate log file is created to log all image files with transparent pixels. T
 
 ## Conclusion
 This script provides a convenient way to check for transparent pixels in image files stored in an S3 bucket and copy the image files with no transparent pixels to a different S3 bucket. 
-
