@@ -1,0 +1,14 @@
+boto3==1.26.61
+botocore==1.29.61
+jmespath==1.0.1
+numpy==1.24.1
+opencv-python==4.7.0.68
+pilkit==2.0
+Pillow==9.4.0
+pip==21.3.1
+python-dateutil==2.8.2
+s3transfer==0.6.0
+setuptools==60.2.0
+six==1.16.0
+urllib3==1.26.14
+wheel==0.37.1
